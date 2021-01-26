@@ -1,0 +1,12 @@
+]0;/home/jelmer_oedzes/New-eindverslag/new_eindverslag_dashboard_sj]0;jelmer_oedzes@packer-Ubuntu-18: ~/New-eindverslag/new_eindverslag_dashboard_sj[01;32mjelmer_oedzes@packer-Ubuntu-18[00m:[01;34m~/New-eindverslag/new_eindverslag_dashboard_sj[00m$ [K]0;jelmer_oedzes@packer-Ubuntu-18: ~/New-eindverslag/new_eindverslag_dashboard_sj[01;32mjelmer_oedzes@packer-Ubuntu-18[00m:[01;34m~/New-eindverslag/new_eindverslag_dashboard_sj[00m$ git init 
+Initialized empty Git repository in /home/jelmer_oedzes/New-eindverslag/new_eindverslag_dashboard_sj/.git/
+]0;/home/jelmer_oedzes/New-eindverslag/new_eindverslag_dashboard_sj]0;jelmer_oedzes@packer-Ubuntu-18: ~/New-eindverslag/new_eindverslag_dashboard_sj[01;32mjelmer_oedzes@packer-Ubuntu-18[00m:[01;34m~/New-eindverslag/new_eindverslag_dashboard_sj[00m$ got add[K[K[K[K[K[Kot a[K[K[K[Kit add .[K_
+fatal: pathspec '_' did not match any files
+]0;/home/jelmer_oedzes/New-eindverslag/new_eindverslag_dashboard_sj]0;jelmer_oedzes@packer-Ubuntu-18: ~/New-eindverslag/new_eindverslag_dashboard_sj[01;32mjelmer_oedzes@packer-Ubuntu-18[00m:[01;34m~/New-eindverslag/new_eindverslag_dashboard_sj[00m$ git add_
+git: 'add_' is not a git command. See 'git --help'.
+
+The most similar command is
+	add
+]0;/home/jelmer_oedzes/New-eindverslag/new_eindverslag_dashboard_sj]0;jelmer_oedzes@packer-Ubuntu-18: ~/New-eindverslag/new_eindverslag_dashboard_sj[01;32mjelmer_oedzes@packer-Ubuntu-18[00m:[01;34m~/New-eindverslag/new_eindverslag_dashboard_sj[00m$ git add_.
+git: 'add_.' is not a git command. See 'git --help'.
+]0;/home/jelmer_oedzes/New-eindverslag/new_eindverslag_dashboard_sj]0;jelmer_oedzes@packer-Ubuntu-18: ~/New-eindverslag/new_eindverslag_dashboard_sj[01;32mjelmer_oedzes@packer-Ubuntu-18[00m:[01;34m~/New-eindverslag/new_eindverslag_dashboard_sj[00m$ fit [K[K[K[Kgit add .

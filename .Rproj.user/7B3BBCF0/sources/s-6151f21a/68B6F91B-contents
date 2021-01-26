@@ -1,0 +1,5 @@
+book_filename: "new_eindverslag_dashboard_sj"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
